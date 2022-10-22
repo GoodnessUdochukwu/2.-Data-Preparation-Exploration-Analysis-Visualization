@@ -57,7 +57,7 @@ The exploration of the data results in the following observation:
         13. Most products are discounted. Very high discounts are few compared to low discounts. Most discounts are in the range 0 to 50.
 ![image](https://user-images.githubusercontent.com/103940202/197359196-4690a7d0-d10f-4f89-9cbb-cd35bd7b5763.png)
 
-        14. Based on the subcategory, the size of the product in the figure below shows their sale volume.
+        14. Based on the subcategorization of products, the size of the product name in the figure below corresponds to their sale volume.
 ![image](https://user-images.githubusercontent.com/103940202/197359270-14cb335e-b8e5-467f-adc5-f7c6d54b0ddb.png)
 
         
