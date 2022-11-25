@@ -12,8 +12,7 @@ The exploration of the data results in the following observation:
     
         1. Total quantity of orders is 68705 products.
         
-        2. Total quantity of orders in_stock is 34613, and that out_of_stock is 26709,
-           as shown in the figure below in percentages.
+        2. Total quantity of orders in_stock is 34613, and that out_of_stock is 26709, as shown in the figure below in percentages.
         
 ![image](https://user-images.githubusercontent.com/103940202/197357844-473e68e2-33fc-4f32-ad68-4451a149a1c3.png)
 
