@@ -33,7 +33,7 @@ The exploration of the data results in the following observation:
         
         The demands of product in the categories accessories, devices, and other are not well-served. Therefore sale is not maximized.
         
-        7. Demands are highest at the beginning and end of the years. Thisis proposed to be due to the sale/holiday season.
+        7. Demands are highest at the beginning or end of a year. Thisis proposed to be due to the sale/holiday season.
 ![image](https://user-images.githubusercontent.com/103940202/197358498-aa89aca0-2dd8-4821-a167-e3d651edc690.png)
 
         8. Cheap products are the most demanded goods.
