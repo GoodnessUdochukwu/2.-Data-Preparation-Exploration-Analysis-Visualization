@@ -51,7 +51,7 @@ The exploration of the data results in the following observation:
         11. More revenue is generated per month in the year 2018 compared to the year 2017.
 ![image](https://user-images.githubusercontent.com/103940202/197359136-3a221b29-41a4-49db-adfb-80bd78354d71.png)
        
-        12. Most revenues are generated from sales of accessories and devices across all the years.
+        12. Most revenues are generated from sales of accessories and devices.
 ![image](https://user-images.githubusercontent.com/103940202/197359178-5f2f4e72-004f-43dc-9a7a-a9001e9f8dd7.png)
 
         13. Most products are discounted. Very high discounts are few compared to low discounts. Most discounts are in the range 0 to 50.
